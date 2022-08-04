@@ -12,7 +12,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 65vh;
+  height: 80vh;
   background-image: url(../images/soup.jpg);
   background-size: cover;
   background-position: bottom;
@@ -29,12 +29,13 @@ html {
   max-width: 85vw;
   margin: 0 auto;
   padding: 4rem;
-  line-height : 25px;
+  line-height : 30px;
 }
 
 #introduction p{
   margin: 0 0 30px;
   text-align: center;
+  font-size: 1.2rem;
 }
 
 #introduction img{
@@ -42,6 +43,10 @@ html {
   height: auto;
   display: block;
   margin: 30px auto;
+}
+
+h2{
+  font-size: 1.2rem;
 }
 
 #ingredients img{
