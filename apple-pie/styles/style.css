@@ -11,7 +11,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 70vh;
     background-image: url(../images/apple-pie.jpg);
     background-size: cover;
     background-position: center;
@@ -28,7 +28,7 @@ html {
     max-width: 85vw;
     margin: 0 auto;
     padding: 4rem;
-    line-height : 30px;
+    line-height : 1.45em;
 }
 
 #introduction p{
